@@ -1,0 +1,5 @@
+# Versions installed for the verified 0000 reproduction; Python 3.12.14.
+numpy==2.5.4
+scipy==1.18.1
+Pillow==12.3.0
+matplotlib==3.11.2
